@@ -17,5 +17,5 @@ Skup podataka preuzet sa: https://archive.ics.uci.edu/dataset/218/farm+ads
 * BaggingClassifier
 * RandomForestClassifier
 * XGBoost
-* Support Vector Machine (SGDClassifier)
-* Logistic regression (SGDClassifier)
+* Support Vector Machine
+* Logistic regression

@@ -1,3 +1,9 @@
 .ipynb_checkpoints/
 *.db
-izvestaj*
+*.toc
+*.aux
+*.log
+*.out
+*.tex
+*.gz
+izvestaj.*
